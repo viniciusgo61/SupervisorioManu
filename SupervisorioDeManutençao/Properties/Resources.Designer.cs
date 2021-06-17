@@ -9,6 +9,8 @@
 //------------------------------------------------------------------------------
 
 
+using System.Drawing;
+
 namespace SupervisorioDeManutençao.Properties
 {
     /// <summary>
@@ -23,7 +25,8 @@ namespace SupervisorioDeManutençao.Properties
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources
     {
-
+        internal static Image led2;
+        internal static Image led;
         private static global::System.Resources.ResourceManager resourceMan;
 
         private static global::System.Globalization.CultureInfo resourceCulture;
